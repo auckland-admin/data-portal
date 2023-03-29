@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="23" viewBox="0 0 320 23">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="-16.25" width="320" height="67.25" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>M-footer-border</title>
+  <g style="clip-path: url(#clip-path)">
+    <path d="M160,16.37A1210.91,1210.91,0,0,1,0,5.77V102.5H320V5.77A1210.91,1210.91,0,0,1,160,16.37Z" style="fill: #02314b"/>
+  </g>
+</svg>
